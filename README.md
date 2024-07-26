@@ -1,4 +1,4 @@
-#.# Farm_Project
+## Farm_Project
 # Report on Crop Yield Analysis and Enumerator Performance
 ## Average Yields per Hectare in Metric Tonnes (Mt/Ha)
 After filtering out erroneous data, the average yields per hectare in metric tonnes (Mt/Ha) were computed using the dry weights recorded during the crop cuts experiment. The cleaned data revealed the following average yields per district:
